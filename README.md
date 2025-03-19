@@ -3,7 +3,7 @@ Instalación:
 
   Tienes 2 maneras de disfrutar el juego
   1. Descarga los archivos y ejecuta el index.html desde tu ordenador
-  2. Ingresa al link:
+  2. Ingresa al link: https://janervr.github.io/JaneRVR-challenge-amigo-secreto/
 
 Reglas:
 
